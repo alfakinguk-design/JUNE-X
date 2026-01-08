@@ -1,8 +1,8 @@
-{
+i{
   "name": "ULEKA_KING_BOT",
   "description": "ULEKA_KING_BOT, your friendly assistant!",
   "logo": "https://n.uguu.se/tMeGewax.jpg",
-  "keywords": [uleka],
+  "keywords": [.],
   "repository": "https://github.com/Vinpink2/JUNE-X",
   "stack": "container",
   "addons": [
